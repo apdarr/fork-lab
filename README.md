@@ -13,7 +13,7 @@ After a migration using GitHub's GEI, the source PRs created from forks are left
 
 Before getting started, ensure you have the following installed on your machine:
 
-- **Ruby** (installation instructions)
+- **Ruby** ([installation instructions](https://www.ruby-lang.org/en/documentation/installation/))
 - **Bundler** (After you install Ruby: `gem install bundler`)
 
 ### .env file
